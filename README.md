@@ -5,10 +5,10 @@
 - 💞️ I’m not looking for any collaborate now, I trying to learn & solving problem
 - 📫 How to reach me ...
 - 📫reach me on:-----
-- Mail: shakib1wrk@gmail.com
-- Whatsapp : +8801611230152
-- Facebook : web.facebook.com/saku.1433
-- Instagram : @_shakib_who_,@shakib1wrk
+-  Mail: shakib1wrk@gmail.com
+-  Whatsapp : +8801611230152
+-  Facebook : web.facebook.com/saku.1433
+-  Instagram : @_shakib_who_,@shakib1wrk
 - 
 <!---
 shakib1wrk/shakib1wrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
