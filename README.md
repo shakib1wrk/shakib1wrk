@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shakib1wrk
 - 👀 I’m interested in learning programming more & more
-- 💞️ I'm a Graphic Design Expert with 3 years of experience
-- 🌱 I’m currently learning python
 - 💞️ I’m not looking for any collaborate now, I trying to learn & solving problem
 - 📫 How to reach me ...
 - 📫reach me on:-----
