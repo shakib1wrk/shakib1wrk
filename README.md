@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @shakib1wrk
-- 👀 I’m interested in learning programming more & more
-- 💞️ I’m not looking for any collaborate now, I trying to learn & solving problem
+
 - 📫 How to reach me ...
 - 📫reach me on:-----
 -  Mail: shakib1wrk@gmail.com
