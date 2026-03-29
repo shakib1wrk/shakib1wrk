@@ -1,5 +1,3 @@
-
-- 📫 How to reach me ...
 - 📫reach me on:-----
 -  Mail: shakib1wrk@gmail.com
 -  LinkedIn : www.linkedin.com/in/shakib1wrk/
