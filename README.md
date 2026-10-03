@@ -74,15 +74,8 @@ I’m open to contributing to HCI and UX research through research assistance, g
 
 ---
 
-## GitHub Activity
-
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=shakib1wrk&theme=github-compact&hide_border=true&area=true)
-
----
-
 ## Connect
 
-- Portfolio: [portfolio.sakib.design](https://portfolio.sakib.design/)
 - Website: [sakib.design](https://sakib.design/)
 - LinkedIn: [linkedin.com/in/shakib1wrk](https://www.linkedin.com/in/shakib1wrk/)
 - Behance: [behance.net/shakib1wrk](https://www.behance.net/shakib1wrk)
