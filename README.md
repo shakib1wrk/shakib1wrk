@@ -76,11 +76,23 @@ I’m open to contributing to HCI and UX research through research assistance, g
 
 ## Connect
 
-- Website: [sakib.design](https://sakib.design/)
-- LinkedIn: [linkedin.com/in/shakib1wrk](https://www.linkedin.com/in/shakib1wrk/)
-- Behance: [behance.net/shakib1wrk](https://www.behance.net/shakib1wrk)
-- Dribbble: [dribbble.com/shakib1wrk](https://dribbble.com/shakib1wrk)
-- Email: [shakib1wrk@gmail.com](mailto:shakib1wrk@gmail.com)
+<p align="center">
+  <a href="https://sakib.design/">
+    <img src="https://img.shields.io/badge/Website-sakib.design-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/shakib1wrk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/shakib1wrk">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://dribbble.com/shakib1wrk">
+    <img src="https://img.shields.io/badge/Dribbble-Explore-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+  <a href="mailto:shakib1wrk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
