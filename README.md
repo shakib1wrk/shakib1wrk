@@ -28,20 +28,6 @@ I hold a B.Sc. in Computer Science and Engineering and am preparing for masterâ€
 
 ---
 
-## Selected Product Work
-
-| Product | Contribution |
-| --- | --- |
-| [Onnomatra](https://onnomatra.com/) | Human-centered no-code eCommerce and business management platform for non-technical users |
-| [BlazeWP](https://blazewp.app/) | WordPress development product with a focus on clear workflows and efficient product experiences |
-| StepBlitz | Product design for a modern SaaS workflow and website-building experience |
-| OmniPixCraft | Product and interaction design for a creative digital platform |
-| [FinlyPal](https://finlypal.com/) | Money management experience designed for clarity and everyday financial decision-making |
-
-I also design websites, web applications, mobile products, SaaS platforms, and client products across different industries.
-
----
-
 ## Research & Practice
 
 My undergraduate thesis, *Guava Leaf Disease Detection and Classification Based on Transfer Learning Technique*, explored machine learning for agricultural image classification.
